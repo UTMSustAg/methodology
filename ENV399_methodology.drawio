@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T01:07:54.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="5sCRqMfPIE6F_Gs0W_qC" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T01:10:14.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="FOWkRIXLF4qg_TQhybFu" version="16.5.6" type="github">
   <diagram id="1BeaNvFZOrJ4yZ1JKT3H" name="Page-1">
     <mxGraphModel dx="1346" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0N3fPxSNlgeO_tsuWIb--37" value="Grape soil features by importance" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="40" width="368" height="510" as="geometry" />
+          <mxGeometry x="-50" y="40" width="368" height="560" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--37">
           <mxGeometry y="30" width="368" height="40" as="geometry" />
@@ -281,6 +281,29 @@
         <mxCell id="0N3fPxSNlgeO_tsuWIb--132" value="Other" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--128">
           <mxGeometry x="280" width="88" height="40" as="geometry">
             <mxRectangle width="88" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--37">
+          <mxGeometry y="510" width="368" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--134" value="&lt;p style=&quot;text-align: left ; margin: 0px 0px 12px 37.8px ; text-indent: -37.8px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;times&amp;#34;&quot;&gt;&lt;span&gt;Wolf, T. K. (2008). &lt;i&gt;Wine grape production guide for eastern north america&lt;/i&gt;. Natural Resource, Agriculture, and Engineering Service (NRAES) Cooperative Extension.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rowspan=1;colspan=4;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--133">
+          <mxGeometry width="368" height="50" as="geometry">
+            <mxRectangle width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--135" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="0N3fPxSNlgeO_tsuWIb--133">
+          <mxGeometry x="80" width="90" height="50" as="geometry">
+            <mxRectangle width="90" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--136" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="0N3fPxSNlgeO_tsuWIb--133">
+          <mxGeometry x="170" width="110" height="50" as="geometry">
+            <mxRectangle width="110" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--137" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="0N3fPxSNlgeO_tsuWIb--133">
+          <mxGeometry x="280" width="88" height="50" as="geometry">
+            <mxRectangle width="88" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
