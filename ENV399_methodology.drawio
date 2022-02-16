@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T00:11:10.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="DFag5MSamdHRr4tlAFDI" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T00:14:24.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="rFFR63v4zuba3K_W4lv5" version="16.5.6" type="github">
   <diagram id="1BeaNvFZOrJ4yZ1JKT3H" name="Page-1">
-    <mxGraphModel dx="1983" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,7 +436,7 @@
         <mxCell id="0N3fPxSNlgeO_tsuWIb--253" value="&lt;h1&gt;Bioclimatic factors&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="-40" width="229" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0N3fPxSNlgeO_tsuWIb--262" value="Grape soil water requirements" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--262" value="Grape soil water desirability ranges" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1111" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--263" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#7F00FF;strokeWidth=2;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--262">
@@ -447,7 +447,7 @@
             <mxRectangle width="185" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0N3fPxSNlgeO_tsuWIb--266" value="Water requirement" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--263">
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--266" value="Water requirement (cm)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="0N3fPxSNlgeO_tsuWIb--263">
           <mxGeometry x="185" width="185" height="40" as="geometry">
             <mxRectangle width="185" height="40" as="alternateBounds" />
           </mxGeometry>
