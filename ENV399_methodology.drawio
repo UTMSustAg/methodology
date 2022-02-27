@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T20:47:22.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="IkxLiT8Yi63txC2auImr" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T21:22:44.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="YEMpMSS5nohZcqA_LEvt" version="16.6.4" type="github">
   <diagram id="1BeaNvFZOrJ4yZ1JKT3H" name="Page-1">
-    <mxGraphModel dx="501" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--260" target="0N3fPxSNlgeO_tsuWIb--256">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1263" y="-330" />
-              <mxPoint x="905" y="-330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--260" target="0N3fPxSNlgeO_tsuWIb--254">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1263" y="-330" />
-              <mxPoint x="1710" y="-330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0N3fPxSNlgeO_tsuWIb--260" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="665" y="-1620" width="1195" height="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="0N3fPxSNlgeO_tsuWIb--261" value="&lt;h1&gt;Data sources&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="725" y="-1560" width="229" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--254" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1470" y="-100" width="780" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="0N3fPxSNlgeO_tsuWIb--255" value="&lt;h1&gt;AHP&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="-40" width="229" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--256" target="0N3fPxSNlgeO_tsuWIb--254">
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--256" target="TXoJ2Y9kakNPnymrVyYn-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--256" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="-105" width="950" height="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--260" target="TXoJ2Y9kakNPnymrVyYn-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1267" y="-150" />
+              <mxPoint x="690" y="-150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0N3fPxSNlgeO_tsuWIb--260" target="TXoJ2Y9kakNPnymrVyYn-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1268" y="-150" />
+              <mxPoint x="1860" y="-150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--260" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="670" y="-1330" width="1195" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--261" value="&lt;h1&gt;Data sources&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-1270" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0N3fPxSNlgeO_tsuWIb--255" value="&lt;h1&gt;AHP&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="-40" width="229" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--257" value="&lt;h1&gt;RStudio chillR&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="-40" width="229" height="40" as="geometry" />
@@ -45,10 +45,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--251" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="1390" width="480" height="2210" as="geometry" />
+          <mxGeometry x="1270" y="1220" width="1180" height="2210" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--37" value="Grape soil features by importance and desirability ranges" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;strokeWidth=2;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="1530" width="368" height="560" as="geometry" />
+          <mxGeometry x="1365" y="1370" width="368" height="560" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0N3fPxSNlgeO_tsuWIb--37" vertex="1">
           <mxGeometry y="30" width="368" height="40" as="geometry" />
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--218" value="Grape soil nutrient desirability ranges" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="2130" width="370" height="428" as="geometry" />
+          <mxGeometry x="1365" y="1970" width="370" height="428" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--219" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" parent="0N3fPxSNlgeO_tsuWIb--218" vertex="1">
           <mxGeometry y="30" width="370" height="57" as="geometry" />
@@ -444,7 +444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--243" value="Soham" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="1420" width="30" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--246" value="Jishnu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="770" y="-70" width="30" height="60" as="geometry" />
@@ -453,13 +453,13 @@
           <mxGeometry x="1820" y="-70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--248" value="Ryan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="-1590" width="30" height="60" as="geometry" />
+          <mxGeometry x="1040" y="-1300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--253" value="&lt;h1&gt;Bioclimatic factors&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="1450" width="229" height="40" as="geometry" />
+          <mxGeometry x="1360" y="1290" width="229" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--262" value="Grape irrigation requirement by soil texture" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="2601" width="370" height="200" as="geometry" />
+          <mxGeometry x="1364" y="2430" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--263" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#7F00FF;strokeWidth=2;" parent="0N3fPxSNlgeO_tsuWIb--262" vertex="1">
           <mxGeometry y="30" width="370" height="40" as="geometry" />
@@ -514,7 +514,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--278" value="Grape budhardiness by variety in degrees Celsius" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1678" y="2830" width="370" height="714" as="geometry" />
+          <mxGeometry x="1363" y="2670" width="370" height="714" as="geometry" />
         </mxCell>
         <mxCell id="0N3fPxSNlgeO_tsuWIb--380" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;strokeWidth=2;" parent="0N3fPxSNlgeO_tsuWIb--278" vertex="1">
           <mxGeometry y="30" width="370" height="60" as="geometry" />
@@ -1091,43 +1091,41 @@
             <mxRectangle width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-1" target="TXoJ2Y9kakNPnymrVyYn-11">
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="-920" width="590" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-1" target="TXoJ2Y9kakNPnymrVyYn-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-1" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;315&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none; border-collapse: collapse; width: 236pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;135&quot; style=&quot;width: 101pt&quot;&gt;&lt;col width=&quot;101&quot; style=&quot;width: 76pt&quot;&gt;&lt;col width=&quot;79&quot; style=&quot;width: 59pt&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Precipitation&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Climatic&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;WorldClim&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Slope&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Topographic&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;FAOStat&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Elevation&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Topographic&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;FAOStat&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Soil texture&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Agricultural&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;SoilGrids&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Soil pH&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Agricultural&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;SoilGrids&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 17pt&quot;&gt;&lt;td height=&quot;23&quot; class=&quot;xl65&quot; width=&quot;135&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; height: 17pt; width: 101pt;&quot;&gt;Organic matter&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;101&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 76pt;&quot;&gt;Agricultural&lt;/td&gt;&lt;td class=&quot;xl65&quot; width=&quot;79&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: calibri, sans-serif; vertical-align: top; border: none; width: 59pt;&quot;&gt;SoilGrids&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1150" width="340" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-1210" width="590" height="260" as="geometry" />
+          <mxGeometry x="700" y="-860" width="340" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-8" value="GRASS GIS processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-1190" width="140" height="30" as="geometry" />
+          <mxGeometry x="1175" y="-900" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-11" target="TXoJ2Y9kakNPnymrVyYn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-11" value="Import into location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1185" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-12" target="TXoJ2Y9kakNPnymrVyYn-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-12" value="Resample to ___ resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="-1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1375" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-13" target="0N3fPxSNlgeO_tsuWIb--260">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1610" y="-800" />
-              <mxPoint x="1263" y="-800" />
+              <mxPoint x="1615" y="-510" />
+              <mxPoint x="1267" y="-510" />
+              <mxPoint x="1267" y="-280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-13" value="Clean data to ___ temporal resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="-1100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-24" value="Reclassify&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1555" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-27" target="TXoJ2Y9kakNPnymrVyYn-33">
           <mxGeometry relative="1" as="geometry" />
@@ -1151,14 +1149,96 @@
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-30" value="Raster map of each bioclimatic variable" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1540" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TXoJ2Y9kakNPnymrVyYn-31" value="Desirable growing zones for future year ranges" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="480" width="160" height="60" as="geometry" />
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-31" value="Desirable growing zones for future year ranges (6 classes)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="480" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-33" target="TXoJ2Y9kakNPnymrVyYn-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXoJ2Y9kakNPnymrVyYn-33" value="Reclassify rasters" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1800" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-38" target="TXoJ2Y9kakNPnymrVyYn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-38" target="TXoJ2Y9kakNPnymrVyYn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-38" target="TXoJ2Y9kakNPnymrVyYn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-38" target="TXoJ2Y9kakNPnymrVyYn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-38" value="Temperature data (weathercan)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579.75" y="470" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-39" target="TXoJ2Y9kakNPnymrVyYn-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-39" value="Chilling hours" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.25" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-40" value="GDH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.25" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-41" value="Hourly temperaures (upscales daily average to hourly average)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.25" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="760" width="590" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-42" target="TXoJ2Y9kakNPnymrVyYn-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="720" />
+              <mxPoint x="1050" y="720" />
+              <mxPoint x="1050" y="830" />
+              <mxPoint x="855" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-42" value="Future temperature scenarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.25" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-55" value="GRASS GIS processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-56" target="TXoJ2Y9kakNPnymrVyYn-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-56" value="Interpolate points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="795" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-57" target="TXoJ2Y9kakNPnymrVyYn-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-57" value="Resample to ___ resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXoJ2Y9kakNPnymrVyYn-58" target="0N3fPxSNlgeO_tsuWIb--256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1225" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXoJ2Y9kakNPnymrVyYn-58" value="Clean data to ___ temporal resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
