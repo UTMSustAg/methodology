@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T13:45:55.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="O4NAowz5JXwkDpi81f0n" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T16:52:08.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Jedr3JTFiO8j17Fz7UCa" version="16.6.6" type="github">
   <diagram id="x2TIR3rb8K0Ldml0S2W9" name="Page-1">
-    <mxGraphModel dx="2365" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,22 +116,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_A3OE0f-5W6X1XhNqCbN-22" value="Reclassify&lt;br&gt;r.reclassify&lt;br&gt;&lt;br&gt;Rules&lt;br&gt;&lt;div&gt;ch_rules.txt &amp;nbsp; &amp;nbsp;om_rules.txt &amp;nbsp;prec_rules.txt &amp;nbsp; tex_rules.txt&lt;/div&gt;&lt;div&gt;elev_rules.txt &amp;nbsp;ph_rules.txt &amp;nbsp;slope_rules.txt&lt;/div&gt;&lt;br&gt;Output&lt;br&gt;_reclass" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="815" width="200" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="QRQPZkHAe0wi9G9AF59y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QRQPZkHAe0wi9G9AF59y-6" target="_A3OE0f-5W6X1XhNqCbN-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1050" y="800" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="QRQPZkHAe0wi9G9AF59y-6" value="Multiply rasters by a factor of 10&lt;br&gt;r.mapcalc&lt;br&gt;&lt;br&gt;Output&lt;br&gt;elevation_mult&lt;br&gt;slope_mult&lt;br&gt;soil_ph_mult&lt;br&gt;soil_organic_matter_mult&lt;br&gt;soil_usda_classified_mult&lt;br&gt;wc2.1_30s_prec_${MONTH}_mult" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1050" y="615" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QRQPZkHAe0wi9G9AF59y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QRQPZkHAe0wi9G9AF59y-21" target="QRQPZkHAe0wi9G9AF59y-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QRQPZkHAe0wi9G9AF59y-21" value="AHP&lt;br&gt;r.mcda.ahp&lt;br&gt;&lt;br&gt;Output&lt;br&gt;grapes_present_30m" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1020" width="200" height="90" as="geometry" />
+          <mxGeometry x="1050" y="985" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QRQPZkHAe0wi9G9AF59y-24" value="Raster map of 4 suitability classes for growing Ontario grapes globally in the present time period" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1150" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QRQPZkHAe0wi9G9AF59y-26" value="Export AHP TIFF&lt;br&gt;r.out.gdal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1080" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="QRQPZkHAe0wi9G9AF59y-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRQPZkHAe0wi9G9AF59y-21" target="QRQPZkHAe0wi9G9AF59y-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="1100" as="sourcePoint" />
+            <mxPoint x="1220" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRQPZkHAe0wi9G9AF59y-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRQPZkHAe0wi9G9AF59y-26" target="QRQPZkHAe0wi9G9AF59y-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="1100" as="sourcePoint" />
+            <mxPoint x="1220" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRQPZkHAe0wi9G9AF59y-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRQPZkHAe0wi9G9AF59y-6" target="_A3OE0f-5W6X1XhNqCbN-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="920" as="sourcePoint" />
+            <mxPoint x="1130" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
